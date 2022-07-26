@@ -46,3 +46,4 @@
   Github URL: https://sadegh777.github.io/text-editor-pwa/
 
   Email: msm.officially@gmail.com
+  
